@@ -1,5 +1,5 @@
 # 俗用される2字熟語辞書
-- 作成者: darumarot(TwitterID: @darumarot)
+- 作成者: darumarot
 - 2019年3月31日(日本時間)作成
 
 ## 概要
